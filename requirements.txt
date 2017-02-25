@@ -1,0 +1,8 @@
+Django==1.10.5
+django-nested-admin==3.0.12
+python-monkey-business==1.0.0
+six==1.10.0
+gunicorn==19.6.0
+whitenoise==3.2.3
+psycopg2==2.6.2
+
